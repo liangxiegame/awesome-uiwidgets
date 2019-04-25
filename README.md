@@ -18,3 +18,4 @@ UIWidgets 汇总贴（英文版之后补充）
 * [文章《属于 Unity 的 Flutter——UIWidgets》](http://frankorz.com/2019/04/01/uiwidgets-practice/) 
 
 ### 视频
+* [跨平台应用框架 UIWidgets 第一季：快速入门与最佳实践 (免费)](http://www.sikiedu.com/course/410)
