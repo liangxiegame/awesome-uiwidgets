@@ -9,6 +9,9 @@ UIWidgets 汇总贴（英文版之后补充）
 * [[官方直播] UIWidgets - 不止游戏！如何使用Unity开发跨平台应用](https://www.bilibili.com/video/av47558897?from=search&seid=3092146516952117219)
 * [社区&讨论组](https://connect.unity.com/g/uiwidgets)
 
+### 插件/库
+* [QF.UIWidgets](https://github.com/liangxiegame/QF.UIWidgets) UIWidgets API 的链式封装 和 《Flutter 实战》中的全部示例实现、并包含一个 TodoList Demo
+
 ### 示例
 * [UIWidget-Practice](https://github.com/Latias94/UIWidget-Practice) 一个基于 Unity UIWidgets 的小练习
 
