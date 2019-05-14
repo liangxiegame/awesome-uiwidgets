@@ -12,11 +12,12 @@ UIWidgets 汇总贴（英文版之后补充）
 ### 插件/库
 * [QF.UIWidgets](https://github.com/liangxiegame/QF.UIWidgets) UIWidgets API 的链式封装 和 《Flutter 实战》中的全部示例实现、并包含一个 TodoList Demo
 
-### 示例
+### 示例/Apps
 * [QF.UIWidgets QuickStart](https://github.com/liangxiegame/QF.UIWidgets/tree/master/Assets/QuickStart) 精巧的四个小示例快速入门。
 * [QF.UIWidgets Examples](https://github.com/liangxiegame/QF.UIWidgets/tree/master/Assets/Example) 《Flutter 实战》 中的全部示例  UIWidgets 实现。
 * [QF.UIWidgets TodoList](https://github.com/liangxiegame/QF.UIWidgets/tree/master/Assets/TodoList) 使用 Redux 架构实现的 TodoList Demo。
 * [UIWidget-Practice](https://github.com/Latias94/UIWidget-Practice) 一个基于 Unity UIWidgets 的小练习
+* [Habbit 习惯养成 App](https://github.com/liangxiegame/Habbit)
 
 
 ### 文章
