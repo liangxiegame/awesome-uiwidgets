@@ -17,7 +17,7 @@ UIWidgets 汇总贴（英文版之后补充）
 * [QF.UIWidgets Examples](https://github.com/liangxiegame/QF.UIWidgets/tree/master/Assets/Example) 《Flutter 实战》 中的全部示例  UIWidgets 实现。
 * [QF.UIWidgets TodoList](https://github.com/liangxiegame/QF.UIWidgets/tree/master/Assets/TodoList) 使用 Redux 架构实现的 TodoList Demo。
 * [UIWidget-Practice](https://github.com/Latias94/UIWidget-Practice) 一个基于 Unity UIWidgets 的小练习
-* [Habbit 习惯养成 App](https://github.com/liangxiegame/Habbit)
+* [Habbit 习惯养成 App](https://github.com/liangxiegame/Habbit)  UIWidgets + Redux + JSON.Net 实现的习惯打卡 App
 
 
 ### 文章
