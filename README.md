@@ -26,3 +26,4 @@ UIWidgets 汇总贴（英文版之后补充）
 
 ### 视频
 * [跨平台应用框架 UIWidgets 第一季：快速入门与最佳实践 (免费)](http://www.sikiedu.com/course/410)
+* [UIWidgets 案例精讲：简易习惯养成 App ---《Habbit》  (需要参加 A 计划)](http://www.sikiedu.com/course/439/summary)
