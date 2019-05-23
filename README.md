@@ -8,6 +8,8 @@ UIWidgets 汇总贴（英文版之后补充）
 * [入门指南](https://github.com/UnityTech/UIWidgets/blob/master/README-ZH.md)
 * [[官方直播] UIWidgets - 不止游戏！如何使用Unity开发跨平台应用](https://www.bilibili.com/video/av47558897?from=search&seid=3092146516952117219)
 * [社区&讨论组](https://connect.unity.com/g/uiwidgets)
+* [Unity Connect App 代码仓](https://github.com/UnityTech/ConnectAppCN)
+* [Unity 文档仓](https://github.com/UnityTech/DocCN)
 
 ### 插件/库
 * [QF.UIWidgets](https://github.com/liangxiegame/QF.UIWidgets) UIWidgets API 的链式封装 和 《Flutter 实战》中的全部示例实现、并包含一个 TodoList Demo
