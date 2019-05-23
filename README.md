@@ -12,8 +12,10 @@ UIWidgets 汇总贴（英文版之后补充）
 * [Unity 文档仓](https://github.com/UnityTech/DocCN)
 
 ### 插件/库
-* [QF.UIWidgets](https://github.com/liangxiegame/QF.UIWidgets) UIWidgets API 的链式封装 和 《Flutter 实战》中的全部示例实现、并包含一个 TodoList Demo
+* [UIWidgets.ScrollView](ttps://github.com/JustinFincher/UIWidgets.ScrollView) 带 Damping 的 2D ScrollView
+* [UIWidgets.ScrollableTabView](https://github.com/JustinFincher/UIWidgets.ScrollableTabView) 类似于 Chrome 一样的顶部 TabView
 * [UIWidgets Redux Persist](https://github.com/liangxiegame/UIWidgetsReduxPersist) Redux 的数据持久化/存储插件/中间件
+* [QF.UIWidgets](https://github.com/liangxiegame/QF.UIWidgets) UIWidgets API 的链式封装 和 《Flutter 实战》中的全部示例实现、并包含一个 TodoList Demo
 
 ### 示例/Apps
 * [QF.UIWidgets QuickStart](https://github.com/liangxiegame/QF.UIWidgets/tree/master/Assets/QuickStart) 精巧的四个小示例快速入门。
