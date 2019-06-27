@@ -28,6 +28,7 @@ UIWidgets 汇总贴（英文版之后补充）
 * [Pomo Timer](https://github.com/liangxiegame/PomoTimer) UiWidgets + Redux + Persist 实现的番茄计时器 App
 * [Todo Pro](https://github.com/liangxiegame/TodoPro) UIWidgets + Redux + Persist 实现的 GTD Todo App
 * [Note Pro](https://github.com/liangxiegame/NotePro) UIWidgets + Redux + Persist 实现的笔记 App
+* [UIWidgets-Tetris](https://github.com/liangxiegame/UIWidgets-Tetris) GB 黑白俄罗斯方块
 * [练习用的通讯录 App](https://github.com/Csymaet/UIWidgets-AddressList-TST-2019-5) 
 
 
