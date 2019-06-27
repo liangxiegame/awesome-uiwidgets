@@ -19,11 +19,16 @@ UIWidgets 汇总贴（英文版之后补充）
 * [Markdown Renderer](https://github.com/suntabu/Markdown-Renderer-For-UIWidgets) Markdown 渲染器
 
 ### 示例/Apps
+* [ConnectAppCN](https://github.com/UnityTech/ConnectAppCN) Unity 官方 Connect App 仓库。
 * [QF.UIWidgets QuickStart](https://github.com/liangxiegame/QF.UIWidgets/tree/master/Assets/QuickStart) 精巧的四个小示例快速入门。
 * [QF.UIWidgets Examples](https://github.com/liangxiegame/QF.UIWidgets/tree/master/Assets/Example) 《Flutter 实战》 中的全部示例  UIWidgets 实现。
 * [QF.UIWidgets TodoList](https://github.com/liangxiegame/QF.UIWidgets/tree/master/Assets/TodoList) 使用 Redux 架构实现的 TodoList Demo。
 * [UIWidget-Practice](https://github.com/Latias94/UIWidget-Practice) 一个基于 Unity UIWidgets 的小练习
 * [Habbit 习惯养成 App](https://github.com/liangxiegame/Habbit)  UIWidgets + Redux + JSON.Net 实现的习惯打卡 App
+* [Pomo Timer](https://github.com/liangxiegame/PomoTimer) UiWidgets + Redux + Persist 实现的番茄计时器 App
+* [Todo Pro](https://github.com/liangxiegame/TodoPro) UIWidgets + Redux + Persist 实现的 GTD Todo App
+* [Note Pro](https://github.com/liangxiegame/NotePro) UIWidgets + Redux + Persist 实现的笔记 App
+* [练习用的通讯录 App](https://github.com/Csymaet/UIWidgets-AddressList-TST-2019-5) 
 
 
 ### 文章
